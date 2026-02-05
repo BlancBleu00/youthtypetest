@@ -1,0 +1,21 @@
+{
+  "ISTJ": {"group": "관리 및 실행 (SJ)", "nickname": "루틴 수호자", "one_liner": "계획대로만 되면 세상은 평화롭다.", "tag": "성실형", "best_match": "분위기 조율자, ESFJ"},
+  "ISFJ": {"group": "관리 및 실행 (SJ)", "nickname": "다정 사수대", "one_liner": "내가 조금 더 챙기면 모두가 편안하니까.", "tag": "서포트형", "best_match": "갓생 총괄자, ESTJ"},
+  "ESTJ": {"group": "관리 및 실행 (SJ)", "nickname": "갓생 총괄자", "one_liner": "비효율은 죄다. 오늘 할 일은 오늘 끝낸다.", "tag": "리더형", "best_match": "다정 사수대, ISFJ"},
+  "ESFJ": {"group": "관리 및 실행 (SJ)", "nickname": "분위기 조율사", "one_liner": "우리 팀 분위기가 곧 나의 원동력.", "tag": "조화형", "best_match": "루틴 수호자, ISTJ"},
+
+  "ISTP": {"group": "탐색 및 경험 (SP)", "nickname": "효율적 방관자", "one_liner": "말 많이 할 시간에 일단 기계부터 뜯어본다.", "tag": "해결사형", "best_match": "물음표 던지기, ENTP"},
+  "ISFP": {"group": "탐색 및 경험 (SP)", "nickname": "방전 유예자", "one_liner": "쉼표가 없으면 마침표도 찍을 수 없어.", "tag": "예술가형", "best_match": "아이디어 점프업, ENFP"},
+  "ESTP": {"group": "탐색 및 경험 (SP)", "nickname": "현장 돌파러", "one_liner": "책상 앞 고민은 사치, 일단 부딪히고 본다.", "tag": "활동가형", "best_match": "논리 탐색기, INTP"},
+  "ESFP": {"group": "탐색 및 경험 (SP)", "nickname": "에너지 발산기", "one_liner": "내일의 나를 믿고 오늘의 즐거움을 픽한다.", "tag": "엔터테이너형", "best_match": "감성 파동러, INFP"},
+
+  "INFJ": {"group": "통찰 및 이상 (NF)", "nickname": "조용한 설계자", "one_liner": "겉은 잔잔하지만 속은 거대한 세계가 있다.", "tag": "이상가형", "best_match": "도시 생존가, ENTJ"},
+  "INFP": {"group": "통찰 및 이상 (NF)", "nickname": "감성 파동러", "one_liner": "의미 없는 일은 하기 싫어, 나만의 색이 중요해.", "tag": "몽상가형", "best_match": "에너지 발산기, ESFP"},
+  "ENFP": {"group": "통찰 및 이상 (NF)", "nickname": "아이디어 점프업", "one_liner": "모든 가능성은 열려 있고, 나는 늘 설렌다.", "tag": "활동형", "best_match": "방전 유예자, ISFP"},
+  "ENFJ": {"group": "통찰 및 이상 (NF)", "nickname": "청년 응원 단장", "one_liner": "너의 성장이 나의 기쁨, 함께 가자!", "tag": "멘토형", "best_match": "미래 전략가, INTJ"},
+
+  "INTJ": {"group": "분석 및 전략 (NT)", "nickname": "미래 전략가", "one_liner": "10년 뒤의 나를 위해 오늘의 시스템을 짠다.", "tag": "전략가형", "best_match": "청년 응원 단장, ENFJ"},
+  "INTP": {"group": "분석 및 전략 (NT)", "nickname": "논리 탐색기", "one_liner": "왜? 라는 질문이 풀리지 않으면 움직이지 않아.", "tag": "분석가형", "best_match": "현장 돌파러, ESTP"},
+  "ENTP": {"group": "분석 및 전략 (NT)", "nickname": "물음표 던지기", "one_liner": "당연한 건 없어, 새로운 판을 짜는 게 즐거워.", "tag": "혁신가형", "best_match": "효율적 방관자, ISTP"},
+  "ENTJ": {"group": "분석 및 전략 (NT)", "nickname": "도시 생존가", "one_liner": "기회는 만들어내는 것, 목표만 보고 달린다.", "tag": "추진형", "best_match": "조용한 설계자, INFJ"}
+}
